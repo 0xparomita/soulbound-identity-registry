@@ -1,0 +1,9 @@
+{
+  "name": "soulbound-identity-registry",
+  "version": "1.0.0",
+  "description": "ERC-721 Soulbound Token Implementation",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
